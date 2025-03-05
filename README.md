@@ -97,7 +97,7 @@ MIT License - Open-source for research & educational purposes.
 
 ---
 
-🔬 **Developed by [Your Name] for B.Sc. Final Year Project**  
+🔬 **Developed by [S.VARUN] for B.Sc. Final Year Project**  
 ```
 
 ---
